@@ -1,8 +1,3 @@
-# Spotify AdBlocking for pihole
-#
-# So far these lists have been problematic for the desktop players with a premium subscription:
-# - https://github.com/StevenBlack/hosts/issues/668 (proposal for StevenBlacks List)
-# - https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/Corporations/Spotify%20Ad-Free/CK's-Spotify-FilterList.txt
 adclick.g.doublecklick.net
 adeventtracker.spotify.com
 ads-fa.spotify.com
